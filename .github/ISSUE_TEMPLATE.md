@@ -1,5 +1,5 @@
-**RancherOS Version: (ros os version)**
+**Sodeep Version: (sodeep linux version)**
 
-**Where are you running RancherOS? (docker-machine, AWS, GCE, baremetal, etc.)**
+**Where are you running Sodeep? (docker-machine, AWS, GCE, baremetal, etc.)**
 
 

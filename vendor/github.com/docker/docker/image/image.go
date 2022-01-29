@@ -1,3 +1,6 @@
+// Hello there customizer!
+// This is the Docker's Image GO file
+
 package image
 
 import (
